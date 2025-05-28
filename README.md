@@ -1,2 +1,4 @@
-# csd-380
-DevOps
+# CSD 380 DevOps
+## Contributors: 
+    ⋅⋅* Steve Stylin
+    ⋅⋅* Adam Bailey
