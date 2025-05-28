@@ -1,5 +1,5 @@
 # CSD 380 DevOps
 ## Contributors: 
-- Instructor: [Adma Bailey]
-- Author: [Steve Stylin]
+  - Instructor: Adam Bailey
+  - Author: Steve Stylin
 
